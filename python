@@ -1,3 +1,5 @@
 class queue:
 def enqueue
 element
+def dequeue
+queue
