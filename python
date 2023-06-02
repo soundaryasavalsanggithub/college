@@ -3,3 +3,4 @@ def enqueue
 element
 def dequeue
 queue
+def __init__(self):
